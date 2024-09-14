@@ -1,0 +1,3 @@
+1) The file is added to the staging area, where the file can be edited.
+2) git commit adds the file to the git directory however the remote does not have a copy until git push.
+3) Wehn we push the files in the local repository are pushed to remote repository.
